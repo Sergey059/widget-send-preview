@@ -37,8 +37,9 @@
   border: 1px solid #f2f2f2;
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-  opacity: 0.7;
+  opacity: 0.8;
   font-family: inherit;
+  color: #4d3bfe;
 }
 
 .widget__btn:hover,
@@ -56,7 +57,7 @@
 
 .widget.active .widget__link {
   z-index: 1;
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .widget.active .widget__link:hover {
